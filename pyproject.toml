@@ -8,6 +8,7 @@ authors = ["dmitriykodolov <kodolovdv@gmail.com>"]
 python = "^3.9"
 pytest-cov = "^3.0.0"
 colorama = "^0.4.5"
+Pillow = "^9.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
